@@ -4,7 +4,7 @@ Excited to share my latest iOS development project — a **Weather App built wit
 
 This project helped me strengthen my practical understanding of **REST API integration, JSON parsing, Codable, networking, and dynamic UI updates** in iOS.
 
-### 🔥 Key Features
+🔥 Key Features
 
 🌤️ Real-time weather information
 🌡️ Temperature & feels-like temperature
@@ -14,8 +14,7 @@ This project helped me strengthen my practical understanding of **REST API integ
 📍 Location-based weather search
 🔄 API-based dynamic data updates
 
-### 🛠️ Tech Stack
-
+🛠️ Tech Stack:
 • Swift
 • UIKit
 • REST API
