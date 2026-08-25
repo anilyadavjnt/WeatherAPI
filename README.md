@@ -4,6 +4,11 @@ Excited to share my latest iOS development project — a Weather App built with 
 
 This project helped me strengthen my practical understanding of REST API integration, JSON parsing, Codable, networking, and dynamic UI updates** in iOS.
 
+
+
+
+<img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-08-10 at 16 57 32" src="https://github.com/user-attachments/assets/847d29fd-83f1-42ba-ae67-7dc6da1b2b75" />
+
 🔥 Key Features:
 🌤️ Real-time weather information
 🌡️ Temperature & feels-like temperature
@@ -30,6 +35,3 @@ WeatherAPI provides real-time and forecast weather data through REST endpoints, 
 This project is another step forward in my journey as an **iOS Developer** 🚀
 
 💬 Feedback and suggestions are always welcome!
-
-
-<img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-08-10 at 16 57 32" src="https://github.com/user-attachments/assets/847d29fd-83f1-42ba-ae67-7dc6da1b2b75" />
