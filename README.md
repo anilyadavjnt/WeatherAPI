@@ -1,11 +1,10 @@
-🚀 **Built a Weather App using WeatherAPI + Swift! 🌦️📱**
+🚀 Built a Weather App using WeatherAPI + Swift! 🌦️📱
 
-Excited to share my latest iOS development project — a **Weather App built with Swift & UIKit**, integrated with **WeatherAPI**.
+Excited to share my latest iOS development project — a Weather App built with Swift & UIKit, integrated with WeatherAPI.
 
-This project helped me strengthen my practical understanding of **REST API integration, JSON parsing, Codable, networking, and dynamic UI updates** in iOS.
+This project helped me strengthen my practical understanding of REST API integration, JSON parsing, Codable, networking, and dynamic UI updates** in iOS.
 
-🔥 Key Features
-
+🔥 Key Features:
 🌤️ Real-time weather information
 🌡️ Temperature & feels-like temperature
 💨 Wind speed & direction
@@ -24,7 +23,7 @@ This project helped me strengthen my practical understanding of **REST API integ
 • Auto Layout
 • Xcode
 
-One of the key things I focused on was handling API responses cleanly and converting JSON data into Swift models using **Codable**.
+One of the key things I focused on was handling API responses cleanly and converting JSON data into Swift models using Codable.
 
 WeatherAPI provides real-time and forecast weather data through REST endpoints, making it a great API for building practical applications.
 
