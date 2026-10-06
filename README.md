@@ -135,7 +135,7 @@ Screenshots/
 └── LocationWeather.png
 ```
 
-Example:
+
 
 
 ## 📚 What I Learned
