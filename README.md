@@ -137,7 +137,6 @@ Screenshots/
 
 Example:
 
-![Weather App](Screenshots/WeatherHome.png)
 
 ## 📚 What I Learned
 
