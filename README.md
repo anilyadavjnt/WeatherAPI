@@ -126,7 +126,7 @@ Replace it with your own API key locally.
 
 ## 📸 Screenshots
 
-Add your application screenshots here:
+<img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-08-10 at 16 57 32" src="https://github.com/user-attachments/assets/847d29fd-83f1-42ba-ae67-7dc6da1b2b75" />
 
 ```text
 Screenshots/
@@ -166,5 +166,5 @@ iOS Developer | 2+ Years Experience
 
 
 
-<img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-08-10 at 16 57 32" src="https://github.com/user-attachments/assets/847d29fd-83f1-42ba-ae67-7dc6da1b2b75" />
+
 
